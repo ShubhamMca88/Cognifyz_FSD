@@ -1,38 +1,25 @@
-body{
-  background-color: rgb(188, 195, 193);
-}
-h1{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-form {
-  max-width: 400px;
-  margin: 0 auto;
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
 }
 
-label {
-  display: block;
-  margin-bottom: 5px;
-  font-weight: bold;
+#form-section {
+  max-width: 500px;
+  margin: auto;
 }
 
-input {
+footer {
+  position: relative;
+  bottom: 0;
   width: 100%;
-  padding: 8px;
-  margin-bottom: 10px;
 }
 
-button {
-  padding: 10px 20px;
-  background-color: #06d933;
+footer .btn-outline-dark {
+  border-color: #343a40;
+  color: #343a40;
+}
+
+footer .btn-outline-dark:hover {
+  background-color: #343a40;
   color: #fff;
-  border: none;
-  cursor: pointer;
-  font-weight: bold;
-}
-
-#messages {
-  margin-top: 20px;
-  color: red;
 }
