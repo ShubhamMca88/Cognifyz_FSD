@@ -16,10 +16,56 @@
  <a href="mailto:shubhamkumar.mca@outlook.com" target="_blank"><img src="https://img.shields.io/badge/outlook-61D?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
 
 ## Cognifyz full stack developer Project 
+## Level 1: Intermediate
+### Task 1: HTML Structure and Basic Server Interaction
 
-- Portfolio
-- Landing Page 
-- Calculator
+    Objective: Introduce the concept of server-side rendering and basic form submissions.
+    Steps:
+    1. Create an HTML structure with forms for user input.
+    2. Set up a simple Node.js server using Express.
+    3. Create server-side endpoints to handle form submissions.
+    4. Use server-side rendering (e.g., EJS) to dynamically generate HTML.
+
+  ### Task 2: Inline Styles, Basic Interaction, and Server-Side Validation
+
+    Objective: Expand inline styles and introduce server-side validation for form submissions.
+    Steps:
+    1. Extend HTML with more complex forms and user interactions.
+    2. Utilize inline JavaScript for client-side form validation.
+    3. Implement server-side validation for submitted form data.
+    4. Store validated data in temporary server-side storage.
+
+## Level 2: Intermediate
+  ### Task 3: Advanced CSS Styling and Responsive Design
+
+    Objective: Enhance CSS styling and make the webpage fully responsive.
+    Steps:
+    1. Create a more complex layout with multiple sections.
+    2. Experiment with CSS properties for advanced styling (e.g., transitions, animations).
+    3. Utilize a CSS framework (e.g., Bootstrap) for a consistent and responsive UI.
+
+### Task 4: Complex Form Validation and Dynamic DOM Manipulation
+
+    Objective: Extend form validation and implement dynamic updates to the DOM.
+  
+    Steps:
+    1.Enhance form validation to include more complex rules (e.g., password strength).
+    2.Dynamically update the DOM based on user interactions using JavaScript.
+    3.Implement client-side routing for a smoother user experience.
+ 
+ 
+## Level 3: Advanced 
+  ### Task 5: API Integration and Front-End Interaction
+
+    Objective: Introduce server-client communication through a RESTful API.
+
+    Steps:
+
+    1.Create RESTful API endpoints on the server for handling CRUD operations.
+
+    2.Develop a front-end interface that interacts with your own server API.
+
+    3.Fetch and display data from your API on the front end.
 
 ## Cognifyz about us 
 
@@ -49,7 +95,7 @@ solutions to meet the evolving needs of businesses.
 ![Github](https://img.shields.io/badge/Github-9195F6?style=for-the-badge&logo=github&logoColor=white)
 
 ## Screen shot
-  <img src="img\2.png" alt="1 view" width="300">
+  <img src="img\1.png" alt="1 view" width="300">
 
 <h3 align="left">Support </h3>
 <p><a href="https://buymeacoffee.com/shubhammca88"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shubham" /></a></p><br><br>
