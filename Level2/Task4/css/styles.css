@@ -1,0 +1,38 @@
+body{
+  background-color: rgb(188, 195, 193);
+}
+h1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #06d933;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#messages {
+  margin-top: 20px;
+  color: red;
+}
